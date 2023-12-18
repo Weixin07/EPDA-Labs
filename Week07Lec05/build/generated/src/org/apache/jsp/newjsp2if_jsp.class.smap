@@ -1,0 +1,17 @@
+SMAP
+newjsp2if_jsp.java
+JSP
+*S JSP
+*F
++ 0 newjsp2if.jsp
+newjsp2if.jsp
+*L
+5,13:60
+17:104,6
+17,2:75
+18:123,8
+19,2:131
+20,2:79
+21:151,5
+21,4:83
+*E
